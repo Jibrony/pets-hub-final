@@ -1,0 +1,5 @@
+section {
+    background: rgb(55,78,133);
+    background: linear-gradient(30deg, rgba(0,115,230,1) 0%, rgba(29,186,255,1) 100%);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
